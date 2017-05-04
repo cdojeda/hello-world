@@ -1,0 +1,3 @@
+
+Copiar y pegar las fuentes "BEBAS_" y "BebasNeue" para una óptima visualización de la presentacion en la siguiente ruta:
+Panel de control\Apariencia y personalización\Fuentes.
